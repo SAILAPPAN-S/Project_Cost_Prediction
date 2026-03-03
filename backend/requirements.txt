@@ -1,0 +1,11 @@
+pandas==2.2.2
+numpy==1.26.4
+xgboost==2.1.1
+scikit-learn==1.5.1
+matplotlib==3.9.2
+seaborn==0.13.2
+joblib==1.4.2
+openpyxl==3.1.5
+streamlit==1.42.2
+flask==3.0.0
+flask-cors==4.0.0
